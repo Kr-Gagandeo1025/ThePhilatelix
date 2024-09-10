@@ -1,6 +1,6 @@
 const LandingPage = () => {
   return (
-    <div>
+    <div className="text-4xl">
       This is landing Page
     </div>
   )
